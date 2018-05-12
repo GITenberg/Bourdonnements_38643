@@ -1,0 +1,31 @@
+_repo: Bourdonnements_38643
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38643-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Karr, Alphonse
+    alias: Karr, Jean-Alphonse
+    birthdate: 1808
+    deathdate: 1890
+    gutenberg_agent_id: '37873'
+    url: http://www.gutenberg.org/2009/agents/37873
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jean-Baptiste_Alphonse_Karr
+    - http://fr.wikipedia.org/wiki/Alphonse_Karr
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2012-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38643'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Third Republic, 1870-1940'
+- !lcc 'PQ'
+title: Bourdonnements
+url: http://www.gutenberg.org/ebooks/38643
